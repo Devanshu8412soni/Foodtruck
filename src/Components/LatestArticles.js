@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import Menu from "./Menu";
 import ArrowBackIosIcon from "@mui/icons-material/ArrowBackIos";
 import ArrowForwardIosIcon from "@mui/icons-material/ArrowForwardIos";
-const Latest_articles = () => {
+const LatestArticles = () => {
   const itemsPerPage = 3;
   const [currentPage, setCurrentPage] = useState(1);
   const maxPage = Math.ceil(Menu.length / itemsPerPage);
@@ -46,4 +46,4 @@ const Latest_articles = () => {
   );
 };
 
-export default Latest_articles;
+export default LatestArticles;

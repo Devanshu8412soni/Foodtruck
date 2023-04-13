@@ -2,8 +2,7 @@ import React from "react";
 import About from "./About";
 import logo from "../Images_Main/logo.jpg";
 import cover from "../Images_Main/cover.jpg";
-import curve from "../Images_Main/curve.jpg";
-import Latest_articles from "./Latest_articles";
+import LatestArticles from "./LatestArticles";
 import Footer from "./Footer";
 const Food = () => {
   return (
@@ -30,7 +29,7 @@ const Food = () => {
         </div>
         <div></div>
         <About />
-        <Latest_articles />
+        <LatestArticles />
         <Footer />
       </div>
     </>
