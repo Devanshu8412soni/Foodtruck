@@ -19,17 +19,17 @@ const Footer = () => {
         </div>
         <div className='more'>
             <h3>More</h3>
-            <a id='a1'>About Us</a>
-            <a id='a2'>Products</a>
-            <a id="a3">Career</a>
-            <a id='a4'>Contact Us</a>
+            <p id='p1'>pbout Us</p>
+            <p id='a2'>Products</p>
+            <p id="a3">Career</p>
+            <p id='a4'>Contact Us</p>
         </div>
         <div className='social'>
         <div className='social_links'>
         <h3> Social Links</h3>
-            <a id='a1'><InstagramIcon /></a>
-            <a id='a2'><TwitterIcon /></a>
-            <a id='a3'><FacebookIcon /></a>
+            <p id='a1'><InstagramIcon /></p>
+            <p id='a2'><TwitterIcon /></p>
+            <p id='a3'><FacebookIcon /></p>
             </div>
             <p>© 2022 Food Truck Example</p>
         </div>

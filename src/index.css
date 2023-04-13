@@ -227,7 +227,7 @@ body {
   font-style: normal;
   font-weight: 400;
   font-size: 15px;
-  line-height: 17px;
+  line-height: 22px;
   letter-spacing: -0.02em;
   color: #444957;
 }
@@ -382,7 +382,7 @@ body {
   letter-spacing: 0.03em;
   color: #0e2368;
 }
-.main_footer .more a {
+.main_footer .more p {
   position: absolute;
   width: 153px;
   height: 26px;
@@ -423,20 +423,20 @@ body {
   letter-spacing: 0.03em;
   color: #0e2368;
 }
-.main_footer .social .social_links a {
+.main_footer .social .social_links p {
   position: absolute;
-  left: 1241px;
+  left: 1160px;
   right: 14.65%;
   top: 90px;
   color: #0e2368;
 }
 .main_footer .social .social_links #a2 {
-  left: 1300px;
+  left: 1200px;
   top: 90px;
   color: #0e2368;
 }
 .main_footer .social .social_links #a3 {
-  left: 1359px;
+  left: 1240px;
   top: 90px;
   color: #0e2368;
 }
@@ -624,7 +624,7 @@ body {
     width: 20rem;
     font-size: 3rem;
   }
-  .main_footer .more a{
+  .main_footer .more p{
     top: 55%;
     left: 5%;
     font-size: 2rem;
@@ -655,16 +655,16 @@ body {
   .main_footer .social .social_links h3{
     display: none;
   }
-  .main_footer .social .social_links a{
+  .main_footer .social .social_links p{
     top: 85%;
-    left: 27%;
+    left: 17%;
   }
   .main_footer .social .social_links #a2{
     top: 85%;
-    left: 32%;
+    left: 22%;
   }
   .main_footer .social .social_links #a3{
     top: 85%;
-    left: 37%;
+    left: 27%;
   }
 }
